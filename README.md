@@ -1,0 +1,1 @@
+This example demonstrates a common Scala error related to null values and value types (like Int).  In languages like Java, you can pass null to a method expecting an int.  Scala handles this differently. The solution shows how to handle potential null values.
